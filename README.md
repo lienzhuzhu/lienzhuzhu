@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lienzhuzhu
 - 👀 I’m interested in full stack development, AI/ML, Systems
-- 🌱 I’m currently learning Web Development, DSA, C++
+- 🌱 I’m currently learning web dev full stack, DSA, C++, ML
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: lienzhucs@gmail.com
 
