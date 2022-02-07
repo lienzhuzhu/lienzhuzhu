@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @lienzhuzhu
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning python, web dev, algo
+- 👀 I’m interested in full stack development, AI/ML, Systems
+- 🌱 I’m currently learning Web Development, DSA, C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: lienzhucs@gmail.com
+
+Check out some of my work:
+Simple File Share program (Linux, AWS, PHP)
+Asteroids (based on Atari game)
 
 <!---
 lienzhuzhu/lienzhuzhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
