@@ -5,7 +5,9 @@
 - 📫 How to reach me: lienzhucs@gmail.com
 
 Check out some of my work:
+
 Simple File Share program (Linux, AWS, PHP)
+
 Asteroids (based on Atari game)
 
 <!---
