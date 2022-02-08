@@ -9,7 +9,7 @@ Check out some of my work:
 Simple File Share program (Linux, AWS, PHP)
 https://github.com/lienzhuzhu/file-share
 
-Asteroids (based on Atari game)
+Asteroids (based on Atari game, JavaScript)
 https://github.com/lienzhuzhu/asteroid-game
 
 <!---
