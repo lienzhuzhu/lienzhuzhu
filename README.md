@@ -9,6 +9,9 @@ Check out some of my work:
 Simple File Share program (Linux, AWS, PHP)
 https://github.com/lienzhuzhu/file-share
 
+Pong (based on Atari game, made with Python)
+https://github.com/lienzhuzhu/pong-game
+
 Asteroids (based on Atari game, made with JavaScript)
 https://github.com/lienzhuzhu/asteroid-game
 
