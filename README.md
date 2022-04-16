@@ -8,12 +8,15 @@
 ## Check out some of my work:
 
 Simple File Share program (Linux, AWS, PHP)
+
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/file-share-folder/login.php
 
 To-do App
+
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/todo-vanilla-folder/index.html
 
 Asteroids (based on Atari game, made with JavaScript)
+
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/asteroids-folder/asteroid-game.html
 
 
