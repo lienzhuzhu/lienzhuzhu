@@ -1,6 +1,6 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
-- 👀 I’m interested in full stack development, backend, AI/ML, systems
+- 👀 I’m interested in full stack development, backend, data and AI/ML, oop systems design
 - 🌱 I’m currently learning DSA, full stack web dev, design systems
 - 💞️ I’m looking to collaborate on anything. I love working with C++, Python, Javascript, PHP, Java, and learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
