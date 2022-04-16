@@ -1,23 +1,20 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
-- 👀 I’m interested in full stack development, AI/ML, Systems
+- 👀 I’m interested in full stack development, backend, AI/ML, systems
 - 🌱 I’m currently learning web dev full stack, DSA, C++, ML, JavaScript, PHP
-- 💞️ I’m looking to collaborate on anything. I love working with Python, Java, C++, and learning new tech
+- 💞️ I’m looking to collaborate on anything. I love working with Python, Java, C++, Javascript, PHP, and learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
 
 ## Check out some of my work:
 
 Simple File Share program (Linux, AWS, PHP)
-https://github.com/lienzhuzhu/file-share
+http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/file-share-folder/login.php
 
-C++ Reading and Parsing Strings and Ints from txt files
-https://github.com/lienzhuzhu/cpp-lab-one
-
-Pong (based on Atari game, made with Python)
-https://github.com/lienzhuzhu/pong-game
+To-do App
+http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/todo-vanilla-folder/index.html
 
 Asteroids (based on Atari game, made with JavaScript)
-https://github.com/lienzhuzhu/asteroid-game
+http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/asteroids-folder/asteroid-game.html
 
 
 ## Courses I'm Taking at WashU:
