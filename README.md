@@ -1,21 +1,23 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
 - 👀 I’m interested in full stack development, backend, AI/ML, systems
-- 🌱 I’m currently learning web dev full stack, DSA, C++, ML, JavaScript, PHP
-- 💞️ I’m looking to collaborate on anything. I love working with Python, Java, C++, Javascript, PHP, and learning new tech
+- 🌱 I’m currently learning DSA, full stack web dev, design systems
+- 💞️ I’m looking to collaborate on anything. I love working with C++, Python, Javascript, PHP, Java, and learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
 
 ## Check out some of my work:
 
-Simple File Share program (Linux, AWS, PHP)
+### Simple File Share program (Linux, AWS, PHP)
 
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/file-share-folder/login.php
 
-To-do App
+
+### To-do App
 
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/todo-vanilla-folder/index.html
 
-Asteroids (based on Atari game, made with JavaScript)
+
+### Asteroids (based on Atari game, made with JavaScript)
 
 http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/asteroids-folder/asteroid-game.html
 
