@@ -29,10 +29,10 @@ https://github.com/lienzhuzhu/cpp-games
 
 
 ## Courses I'm Taking at WashU:
-- Data Structures and Algorithms CSE 247 SP2022
-- Web Development CSE 204 SP2022
-- Object Oriented Software Development Laboratory (C++) CSE 332 SP2022
-- Intro to Computer Engineering CSE 132 SP2022
+- Data Structures and Algorithms CSE 247 SP2022 [A+]
+- Web Development CSE 204 SP2022 [A+]
+- Object Oriented Software Development Laboratory (C++) CSE 332 SP2022 [A]
+- Intro to Computer Engineering CSE 132 SP2022 [A]
 
 <!---
 lienzhuzhu/lienzhuzhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
