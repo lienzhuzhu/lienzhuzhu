@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning web dev, design patterns, React, JS, C++
 - 💞️ I’m looking to collaborate on anything. I love working with C++, Python, Javascript, PHP, Java, and learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lienzhu/
 
 ## Check out some of my work:
 
