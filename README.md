@@ -1,7 +1,7 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
 - 👀 I’m interested in full stack development, backend, data and AI/ML, oop systems design
-- 🌱 I’m currently learning web dev, design patterns, React, JS, C++
+- 🌱 I’m currently learning MySQL, Security
 - 💞️ I’m looking to collaborate on anything. I love working with C++, Python, Javascript, PHP, Java, and learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lienzhu/
