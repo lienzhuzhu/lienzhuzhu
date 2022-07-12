@@ -1,7 +1,7 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
 - 👀 I’m interested in full stack development, data and AI/ML
-- 🌱 I’m currently learning MySQL, Security, OOP Design Patterns
+- 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on anything. I love learning new tech
 - 📫 How to reach me: lienzhucs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lienzhu/
