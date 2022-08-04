@@ -1,7 +1,7 @@
 # Hi, I'm Lien!
 - 👋 aka @lienzhuzhu
 - 👀 I’m interested in full stack web development, Unity, and AI/ML
-- 🌱 I’m currently learning JavaScript Frameworks :cold_sweat:
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me: lienzhucs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lienzhu/
 
