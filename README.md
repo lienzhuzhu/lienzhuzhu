@@ -8,24 +8,7 @@
 
 ## Check out some of my work:
 
-### Simple File Share program (Linux, AWS, PHP)
-
-http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/file-share-folder/login.php
-
-
-### Pokemon Battle Game (JavaScript, AJAX, CSS)
-
-http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/pokemon-battle-folder/index.html
-
-
-### To-do App (JavaScript)
-
-http://ec2-18-189-194-150.us-east-2.compute.amazonaws.com/todo-vanilla-folder/index.html
-
-
-### C++ Tic Tac Toe and Gomoku Games
-
-https://github.com/lienzhuzhu/cpp-games
+https://lienzhu.dev
 
 
 
