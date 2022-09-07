@@ -3,6 +3,10 @@
 - I’m currently studying:
     * ML, NLP
     * AI
+
+- I'm currently making:
+    * https://github.com/lienzhuzhu/sleep-client
+    * https://github.com/lienzhuzhu/sleepsteep
  
 ## Contact
 - Email: lienzhucs@gmail.com
