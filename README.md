@@ -8,7 +8,7 @@
 - Email: lienzhucs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lienzhu/
 - Website: https://lienzhu.dev
-- Github: lienzhuzhu
+- Github username: lienzhuzhu
 
 
 
