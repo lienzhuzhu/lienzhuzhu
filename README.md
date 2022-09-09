@@ -3,6 +3,7 @@
 - I’m currently studying:
     * ML, NLP
     * AI
+    * Deep language model for structure prediction in biomedical applications
 
 - I'm currently making:
     * https://github.com/lienzhuzhu/sleep-client
