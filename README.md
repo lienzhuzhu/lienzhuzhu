@@ -1,8 +1,8 @@
 # Hi, I'm Lien!
 - I’m interested in full stack web development, AI/ML, and computer science education
 - I’m currently studying:
-    * ML, NLP
-    * AI
+    * Machine Learning, NLP
+    * Artificial Intelligence
     * Deep language model for structure prediction in biomedical applications
 
 - I'm currently making:
