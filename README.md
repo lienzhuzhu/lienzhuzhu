@@ -1,5 +1,5 @@
 # Hi, I'm Lien!
-- I’m interested in Systems, 
+- I’m interested in Systems, Embedded, Security
 - I’m currently learning:
     * CS:APP on my own
     * [SEED](https://seedsecuritylabs.org/) Labs on my own
