@@ -1,13 +1,9 @@
 # Hi, I'm Lien!
-- I’m interested in full stack web development, AI/ML, and computer science education
-- I’m currently studying:
-    * Machine Learning, NLP
+- I’m interested in Systems, 
+- I’m currently learning:
+    * CS:APP on my own
+    * [SEED](https://seedsecuritylabs.org/) Labs on my own
     * Artificial Intelligence
-    * Deep language model for structure prediction in biomedical applications
-
-- I'm currently making:
-    * https://github.com/lienzhuzhu/sleep-client
-    * https://github.com/lienzhuzhu/sleepsteep
  
 ## Contact
 - Email: lienzhucs@gmail.com
