@@ -1,4 +1,4 @@
-# Hi, I'm Lien!
+# Hello, I'm Lien
 
 ### Interests:
 * Systems
