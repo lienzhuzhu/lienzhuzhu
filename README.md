@@ -10,7 +10,7 @@
 * [SEED](https://seedsecuritylabs.org/) Labs (on my own)
 * Artificial Intelligence (Fall 2022)
     
-### Courses I've taken:
+### [Courses](https://engineering.wustl.edu/index.html) I've taken:
 * Intro to Computer Engineering (A)
 * Rapid Prototyping and Creative Development (A)
 * Web Development (A+)
