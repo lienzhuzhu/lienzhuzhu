@@ -7,7 +7,7 @@
  
 ## Contact
 - Email: lienzhucs@gmail.com
-- [Website](https://lienzhu.dev)
+- [Website](https://lienzhu.tech)
 - [LinkedIn](https://www.linkedin.com/in/lienzhu/)
 - Github username: lienzhuzhu
 
