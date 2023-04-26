@@ -1,9 +1,9 @@
 # Hello, I'm Lien
 
-### Interests:
-* Systems
-* Embedded 
-* Security
+### Currently I'm learning:
+- Network
+- Software
+- Security
  
 ## Contact
 - Email: lienzhucs@gmail.com
