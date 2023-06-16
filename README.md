@@ -1,9 +1,7 @@
 # Hello, I'm Lien
 
 ### Currently I'm learning:
-- Network
-- Software
-- Security
+- Edge Device Networking
  
 ## Contact
 - Email: lienzhucs@gmail.com
