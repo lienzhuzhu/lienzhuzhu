@@ -1,7 +1,8 @@
 # Hello, I'm Lien
 
 ### Currently I'm learning:
-- Edge Device Networking
+- NeoVim plugin development
+- ML for life enhancement
  
 ## Contact
 - Email: lienzhucs@gmail.com
