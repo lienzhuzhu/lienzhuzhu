@@ -1,8 +1,7 @@
 # Hello, I'm Lien
 
 ### Currently I'm learning:
-- Neovim plugin development
-- ML for health and life enhancement
+- TinyML/ IoT for health and life enhancement
  
 ## Contact
 - Email: lienzhucs@gmail.com
