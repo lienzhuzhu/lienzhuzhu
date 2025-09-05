@@ -1,4 +1,4 @@
 # Hello, I'm Lien
 
 ## Contact
-- [Website](https://lienzhu.tech)
+- [Website](https://lienzhuzhu.github.io)
